@@ -1,6 +1,8 @@
 # A Dive into Python Descriptors
 
-A Jupyter Notebook examining Python descriptors in detail
+A Jupyter Notebook examining Python descriptors in detail.
+
+Click on the notebook file above to view a static version of it right here in GitHub!
 
 This will become part of my Udemy Python Deep Dive series in Part 4 on advanced OOP.
 
